@@ -137,7 +137,7 @@ Question 8: Available memory in MB.
 
 11.3.2.7 Lab - System Utilities
 Question 1: Console Root > Management Tools > Event Viewer.
-Question 2: (Assumed answer: Nature-themed image or default Windows background.)
+Question 2: (Nature-themed image or default Windows background.)
 Question 3: 0 0 255 (blue).
 Question 4: 255 0 0 (red).
 Question 5: 0 0 255 (blue).
@@ -200,8 +200,8 @@ XCOPY: Copies files and directories, including subdirectories.
 Question 2: md a\b\c
 Question 3: dir or tree
 Question 4: cls
-Question 5: (Assumed answer: md /?)
-Question 6: (Assumed answer: md /?)
+Question 5: ( md /?)
+Question 6: ( md /?)
 Question 7: exit
 
 11.4.2.7 Lab - File System Commands
